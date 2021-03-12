@@ -8,7 +8,7 @@ Example : Gradual Warmup for 100 epoch, after that, use cosine-annealing.
 ## Install
 
 ```
-$ pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
+$ pip install git+https://github.com/LvJC/pytorch-gradual-warmup-lr.git
 ```
 
 ## Usage
